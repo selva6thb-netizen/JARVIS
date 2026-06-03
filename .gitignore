@@ -1,0 +1,10 @@
+.env
+.venv
+__pycache__
+*.pyc
+credentials.txt
+data.txt
+PyWhatKit_DB.txt
+.idea
+my file
+pyhton
